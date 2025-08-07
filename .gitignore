@@ -8,3 +8,6 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# Allow arbitrary files to be ignored
+GITIGNORE*
