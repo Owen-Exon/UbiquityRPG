@@ -1,6 +1,6 @@
 # Skills
 
-In the Ubiquity system, every character has a set of 10 skills. Each one is assigned a dice, which is the dice you roll when making a check with that skill. They are as follows.
+In the Ubiquity system, every character has a set of 10 basic skills. Each one is assigned a dice, which is the dice you roll when making a check with that skill. They are as follows.
 
 - Agility
   - The ability to move quickly and accurately.
@@ -20,7 +20,7 @@ In the Ubiquity system, every character has a set of 10 skills. Each one is assi
 - Pathfinding
   - The ability to navigate through an uncertain environment.
   - Such as locating a distant town, or piloting a ship through as asteroid field.
-- Perception?
+- Perception
   - The ability to notice things that others may not.
   - Such as finding a hidden object or to spot a weak point in a wall.
 - Stealth
@@ -37,22 +37,4 @@ There may be times when it makes sense to rename skills to fit the setting, (For
 
 ## Setting dependent skills
 
-Many settings will require additional skills beyond these 10 to allow for things may not appear in all settings. Generally it is recommended to add two or three additional skills. Mostly they can be split into the categories below.
-
-### Fantasy
-
-- Arcana
-  - The ability to control magic and to recognize magical effects.
-  - Such as identifying an arcane artifact or casting a spell.
-- Holy Favor
-  - How liked a character is by the gods.
-  - Such as seeking blessing in a holy temple.
-
-### Sci-fi
-
-- Technology
-  - The ability to use unfamiliar tech, or tech while under pressure.
-  - Such as finding a new device or firing a ships weapons while under attack.
-- Mechanics
-  - The ability to repair or modify a piece of technology.
-  - Such as repairing a broken piece of equipment or making one more powerful.
+Many settings will require additional skills beyond these 10 to allow for things may not appear in all settings.
