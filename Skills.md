@@ -11,9 +11,6 @@ In the Ubiquity system, every character has a set of 10 skills. Each one is assi
 - Composure
   - The ability to remain calm under pressure.
   - Such as whilst performing or sneaking past some guards.
-- Control
-  - The ability to accurately and effectively use a weapon.
-  - Such as attacking with a sword or aiming a bow.
 - Dexterity
   - The ability to perform tasks requiring manual precision.
   - Such as picking a lock or folding an origami crane.
@@ -23,6 +20,9 @@ In the Ubiquity system, every character has a set of 10 skills. Each one is assi
 - Pathfinding
   - The ability to navigate through an uncertain environment.
   - Such as locating a distant town, or piloting a ship through as asteroid field.
+- Perception?
+  - The ability to notice things that others may not.
+  - Such as finding a hidden object or to spot a weak point in a wall.
 - Stealth
   - The ability to not be seen when trying to hide.
   - Such as passing guards unnoticed or hiding behind a wall.

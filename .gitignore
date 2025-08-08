@@ -10,4 +10,4 @@
 *.vsix
 
 # Allow arbitrary files to be ignored
-GITIGNORE*
+*GITIGNORE*
