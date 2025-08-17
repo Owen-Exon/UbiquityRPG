@@ -4,7 +4,7 @@ When a player performs a skill check the DM tells that player what two skills ar
 
 ## Options
 
-Not all skill checks will be clear on what two skills to use. It may be nice to give players a choice of pairs. For example, when climbing a ladder Dexterity-Strength could be rolled or Agility-Agility.
+Not all skill checks will be clear on what two skills to use. It may be nice to give players a choice of pairs. For example, when climbing a cliff face Dexterity-Strength could be rolled but you could instead roll Agility-Agility.
 
 ## Impossible Successes
 
