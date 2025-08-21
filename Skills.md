@@ -35,6 +35,10 @@ In the Ubiquity system, every character has a set of 10 basic skills. Each one i
 
 There may be times when it makes sense to rename skills to fit the setting, (For example pathfinding could be renamed "Navigation" in a sci-fi setting) Despite that, these skills are universal and can be used regardless of the setting or the context the game is being played in.
 
+## Defense Dice
+
+This is whatever is greater of Toughness or Agility.
+
 ## Setting dependent skills
 
 Many settings will require additional skills beyond these 10 to allow for things may not appear in all settings.
