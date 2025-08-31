@@ -21,7 +21,7 @@ Proficiency dice a worked out as follows:
 | Novice | d2 | Never used a similar weapon. Not recommended for most campaigns. |
 | Apprentice | d4 | Has had little training or using an unfamiliar weapon similar to one used before (eg. longbow / shortbow)|
 | Adept | d6 | Has had training and used for some adventuring. Most weapons used should be this level. |
-| Expert | d8 | Has trained for years and become familiar over the course of many adventures. Should be used for a characters main weapon. |
+| Expert | d8 | Has trained for years and become familiar over the course of many adventures. Could be used for a characters main weapon. |
 | Master | d10 | The best of the best. Not recommended for most campaigns. |
 
 ## Rolling with Advantage, Disadvantage and Consequence
@@ -36,4 +36,4 @@ You must roll the higher dice twice and pick the lower number.
 
 ### Consequence
 
-Pick one of the two dice to roll. This is either a pass or fail, no partials.
+The DM picks only 1 dice to roll. This is either a pass or fail, no partials.
