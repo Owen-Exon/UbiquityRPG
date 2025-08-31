@@ -1,6 +1,12 @@
 {
     "cSpell.words": [
+        "narratively",
         "Pathfinding",
         "shortbow"
-    ]
+    ],
+    "markdownlint.config" : {
+        "MD033": {
+            "allowed_elements": ["br"]
+        }
+    }
 }
