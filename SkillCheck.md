@@ -26,13 +26,15 @@ Proficiency dice a worked out as follows:
 
 ## Rolling with Advantage, Disadvantage and Consequence
 
+Advantage and Disadvantage cancel each other out 1:1. And Consequence overrides all.
+
 ### Advantage
 
-You can pick one dice to roll twice and pick the higher number.
+Roll an additional d6, take the highest 2 rolls.
 
 ### Disadvantage
 
-You must roll the higher dice twice and pick the lower number.
+Roll an additional d6, take the lowest 2 rolls.
 
 ### Consequence
 
